@@ -27,3 +27,6 @@ A merge conflict happens when Git cannot automatically combine changes from two 
 ### 29. Why does a merge conflict happen, and how can it be resolved?
 
 A merge conflict happens when two branches make different changes to the same part of a file. It can be resolved by reviewing the conflicting changes, choosing the correct version or combining the changes, then saving the file, staging it, and committing the resolution.
+### 30. Why is version control important when working on a project with other people?
+
+Version control is important because it helps team members track changes, work on different parts of a project, collaborate safely, and return to previous versions when needed. It also helps manage conflicts when multiple people edit the same files.
