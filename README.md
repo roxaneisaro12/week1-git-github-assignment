@@ -5,4 +5,5 @@ A Git branch is a separate version of a project where developers can work on cha
 Developers use branches to work on different features or changes without affecting the main project. This allows team members to work safely and independently.
 13. What does git branch do?
 git branch is used to create, list, and manage branches in a Git repository.
-
+14. what is git switch?
+git switch is used to switch from one Git branch to another branch.
