@@ -9,3 +9,6 @@ Pull Requests are useful because they allow team members to review, discuss, and
 ### 23. What is a GitHub Issue?
 
 A GitHub Issue is a tool used to track tasks, problems, bugs, or ideas in a repository. It helps a team organize and manage the work that needs to be done.
+### 24. What is a GitHub Project board?
+
+A GitHub Project board is a tool used to organize and track work. It allows a team to manage tasks using items and columns such as To Do, In Progress, and Done.
