@@ -1,25 +1,3 @@
-# week1-git-github-assignment
-11. What is a Git branch?
-A Git branch is a separate version of a project where developers can work on changes without affecting the main project.
-12. Why do developers use branches?
-Developers use branches to work on different features or changes without affecting the main project. This allows team members to work safely and independently.
-13. What does git branch do?
-git branch is used to create, list, and manage branches in a Git repository.
-14. what is git switch?
-git switch is used to switch from one Git branch to another branch.
-15. Difference between git switch vs git merge?
-git switch changes the branch you are currently working on, while git merge combines the changes from one branch into another branch.
-16. What is a remote repository?
-A remote repository is a Git repository stored on a server such as GitHub. It allows developers to store, share, and collaborate on a project.
-17. What does git remote do?
-git remote is used to view and manage connections to remote repositories.
-18. What is git clone?
-git clone copies a remote repository from a server such as GitHub to your computer so you can work on it locally.
-19. what is git push?
-git push uploads your local commits and changes to a remote repository such as GitHub
-20. what is git pull?
-git pull downloads the latest changes from a remote repository and combines them with your current local branch.
-
 Week 1 collaborative Git and GitHub workflow assignment
 Git & GitHub Collaboration Guide
 
@@ -53,6 +31,27 @@ A Git repository is a project folder that contains project files and Git history
 
  10.What does `git log` show?
  `git log` shows the history of commits in a Git repository, including commit IDs, authors, dates, and commit messages.
+ # Roxane's questions
+ 11. What is a Git branch?
+A Git branch is a separate version of a project where developers can work on changes without affecting the main project.
+12. Why do developers use branches?
+Developers use branches to work on different features or changes without affecting the main project. This allows team members to work safely and independently.
+13. What does git branch do?
+git branch is used to create, list, and manage branches in a Git repository.
+14. what is git switch?
+git switch is used to switch from one Git branch to another branch.
+15. Difference between git switch vs git merge?
+git switch changes the branch you are currently working on, while git merge combines the changes from one branch into another branch.
+16. What is a remote repository?
+A remote repository is a Git repository stored on a server such as GitHub. It allows developers to store, share, and collaborate on a project.
+17. What does git remote do?
+git remote is used to view and manage connections to remote repositories.
+18. What is git clone?
+git clone copies a remote repository from a server such as GitHub to your computer so you can work on it locally.
+19. what is git push?
+git push uploads your local commits and changes to a remote repository such as GitHub
+20. what is git pull?
+git pull downloads the latest changes from a remote repository and combines them with your current local branch.
 ## Emerance's Questions
 
 ### 21. What is a Pull Request (PR)?
