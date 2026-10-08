@@ -24,3 +24,5 @@ A Git repository is a project folder that contains project files and Git history
 7.What does `git add` do?
 `git add` moves changes to the staging area so they can be included in the next commit.
 
+8.What does `git commit` do?
+`git commit` saves the staged changes to the Git repository as a new version of the project.
