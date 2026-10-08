@@ -17,3 +17,5 @@ git remote is used to view and manage connections to remote repositories.
 git clone copies a remote repository from a server such as GitHub to your computer so you can work on it locally.
 19. what is git push?
 git push uploads your local commits and changes to a remote repository such as GitHub
+20. what is git pull?
+git pull downloads the latest changes from a remote repository and combines them with your current local branch.
