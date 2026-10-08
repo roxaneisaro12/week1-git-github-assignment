@@ -20,3 +20,7 @@ A Git repository is a project folder that contains project files and Git history
 
 6.What does `git status` do?
 `git status` shows the current state of the working directory, including changed, staged, and untracked files.
+
+7.What does `git add` do?
+`git add` moves changes to the staging area so they can be included in the next commit.
+
