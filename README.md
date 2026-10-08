@@ -12,3 +12,6 @@ A GitHub Issue is a tool used to track tasks, problems, bugs, or ideas in a repo
 ### 24. What is a GitHub Project board?
 
 A GitHub Project board is a tool used to organize and track work. It allows a team to manage tasks using items and columns such as To Do, In Progress, and Done.
+### 25. What is a .gitignore file?
+
+A .gitignore file tells Git which files and folders should not be tracked or committed to the repository. It is commonly used for temporary files, build files, and sensitive or unnecessary files.
