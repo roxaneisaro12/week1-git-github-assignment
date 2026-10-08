@@ -18,3 +18,6 @@ A .gitignore file tells Git which files and folders should not be tracked or com
 ### 26. What does `origin` mean in Git?
 
 `origin` is the default name given to the remote repository when a local repository is cloned. It is used to refer to the GitHub repository connected to the local repository.
+### 27. What is the difference between a local repository and a remote repository?
+
+A local repository is the Git repository stored on your computer. A remote repository is a copy of the repository stored on a server such as GitHub, allowing team members to share and collaborate on the project.
