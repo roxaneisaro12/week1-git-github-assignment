@@ -29,3 +29,6 @@ A Git repository is a project folder that contains project files and Git history
 
 9.What is a commit message, and why is it important?
  A commit message is a short description of the changes made in a commit. It helps developers understand the project's history.
+
+ 10.What does `git log` show?
+ `git log` shows the history of commits in a Git repository, including commit IDs, authors, dates, and commit messages.
