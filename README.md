@@ -26,3 +26,6 @@ A Git repository is a project folder that contains project files and Git history
 
 8.What does `git commit` do?
 `git commit` saves the staged changes to the Git repository as a new version of the project.
+
+9.What is a commit message, and why is it important?
+ A commit message is a short description of the changes made in a commit. It helps developers understand the project's history.
