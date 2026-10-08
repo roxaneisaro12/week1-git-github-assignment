@@ -15,3 +15,5 @@ A remote repository is a Git repository stored on a server such as GitHub. It al
 git remote is used to view and manage connections to remote repositories.
 18. What is git clone?
 git clone copies a remote repository from a server such as GitHub to your computer so you can work on it locally.
+19. what is git push?
+git push uploads your local commits and changes to a remote repository such as GitHub
