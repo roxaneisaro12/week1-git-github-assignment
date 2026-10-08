@@ -14,3 +14,6 @@ Git is the version control tool that runs on your computer, while GitHub is an o
 
 4.What is a Git repository?
 A Git repository is a project folder that contains project files and Git history used to track changes.
+
+5.What is the purpose of `git init`?
+`git init` creates a new Git repository in the current folder, allowing Git to start tracking changes in the project. |
