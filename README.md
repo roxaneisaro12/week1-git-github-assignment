@@ -21,3 +21,6 @@ A .gitignore file tells Git which files and folders should not be tracked or com
 ### 27. What is the difference between a local repository and a remote repository?
 
 A local repository is the Git repository stored on your computer. A remote repository is a copy of the repository stored on a server such as GitHub, allowing team members to share and collaborate on the project.
+### 28. What is a merge conflict?
+
+A merge conflict happens when Git cannot automatically combine changes from two branches because the same part of a file has been changed differently. The developer must manually choose which changes to keep and then complete the merge.
