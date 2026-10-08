@@ -15,3 +15,6 @@ A GitHub Project board is a tool used to organize and track work. It allows a te
 ### 25. What is a .gitignore file?
 
 A .gitignore file tells Git which files and folders should not be tracked or committed to the repository. It is commonly used for temporary files, build files, and sensitive or unnecessary files.
+### 26. What does `origin` mean in Git?
+
+`origin` is the default name given to the remote repository when a local repository is cloned. It is used to refer to the GitHub repository connected to the local repository.
