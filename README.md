@@ -9,3 +9,5 @@ git branch is used to create, list, and manage branches in a Git repository.
 git switch is used to switch from one Git branch to another branch.
 15. Difference between git switch vs git merge?
 git switch changes the branch you are currently working on, while git merge combines the changes from one branch into another branch.
+16. What is a remote repository?
+A remote repository is a Git repository stored on a server such as GitHub. It allows developers to store, share, and collaborate on a project.
