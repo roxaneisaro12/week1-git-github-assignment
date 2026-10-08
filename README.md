@@ -13,3 +13,5 @@ git switch changes the branch you are currently working on, while git merge comb
 A remote repository is a Git repository stored on a server such as GitHub. It allows developers to store, share, and collaborate on a project.
 17. What does git remote do?
 git remote is used to view and manage connections to remote repositories.
+18. What is git clone?
+git clone copies a remote repository from a server such as GitHub to your computer so you can work on it locally.
