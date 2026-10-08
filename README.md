@@ -24,3 +24,6 @@ A local repository is the Git repository stored on your computer. A remote repos
 ### 28. What is a merge conflict?
 
 A merge conflict happens when Git cannot automatically combine changes from two branches because the same part of a file has been changed differently. The developer must manually choose which changes to keep and then complete the merge.
+### 29. Why does a merge conflict happen, and how can it be resolved?
+
+A merge conflict happens when two branches make different changes to the same part of a file. It can be resolved by reviewing the conflicting changes, choosing the correct version or combining the changes, then saving the file, staging it, and committing the resolution.
