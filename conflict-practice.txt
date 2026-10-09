@@ -1,1 +1,2 @@
 Our team project is about teamwork and version control.
+Our team project is about Git collaboration.
